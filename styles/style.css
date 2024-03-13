@@ -3,6 +3,7 @@ img {
 }
 
 body {
+  background-color: beige;
   color: rgb(224, 179, 112);
   font-size: 24px;
   border: 20px;

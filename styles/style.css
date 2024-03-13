@@ -1,0 +1,17 @@
+img {
+  max-width: 60%;
+}
+
+body {
+  color: rgb(224, 179, 112);
+  font-size: 24px;
+  border: 20px;
+  border-color: rgb(224, 179, 112);
+  padding: 60px;
+  display: block;
+}
+
+p {
+  padding: 20px;
+  margin: 20px;
+}
